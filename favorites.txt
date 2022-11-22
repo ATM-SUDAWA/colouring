@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Tuwon shinkafa
 Dan wake 
 shinkafa
+=======
+Game of throne
+Marlin
+House of dragon
+>>>>>>> movies
