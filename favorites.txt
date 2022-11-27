@@ -1,7 +1,11 @@
 Tuwon shinkafa
 Dan wake 
 masara
+<<<<<<< HEAD
 dan sarari
+=======
+shinkafa
+>>>>>>> e482170a634f9452e8fade87f5d6f4557370d9c9
 Game of throne
 Marlin
 House of dragon
